@@ -1,2 +1,3 @@
 Test6 created on firstBranch
+Added on master
 
